@@ -251,6 +251,18 @@ Currently supported tasks are:
 If you find our work interesting, please consider citing
 
 ```
+@inproceedings{zhang2025improvingdiffusioninverseproblem,
+  title = {Improving {{Diffusion Inverse Problem Solving}} with {{Decoupled Noise Annealing}}},
+  booktitle = {Proceedings of the {{IEEE}}/{{CVF}} Conference on Computer Vision and Pattern Recognition ({{CVPR}})},
+  author = {Zhang, Bingliang and Chu, Wenda and Berner, Julius and Meng, Chenlin and Anandkumar, Anima and Song, Yang},
+  year = 2025,
+  pages = {20895--20905}
+}
+```
+
+or
+
+```
 @misc{zhang2024improvingdiffusioninverseproblem,
       title={Improving Diffusion Inverse Problem Solving with Decoupled Noise Annealing}, 
       author={Bingliang Zhang and Wenda Chu and Julius Berner and Chenlin Meng and Anima Anandkumar and Yang Song},
